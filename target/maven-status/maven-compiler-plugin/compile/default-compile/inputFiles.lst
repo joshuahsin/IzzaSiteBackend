@@ -1,0 +1,10 @@
+/Users/joshuahsin/Downloads/IzzabellaGift/src/main/java/com/controller/AppController.java
+/Users/joshuahsin/Downloads/IzzabellaGift/src/main/java/com/dao/ImageDao.java
+/Users/joshuahsin/Downloads/IzzabellaGift/src/main/java/com/dao/TraitsDao.java
+/Users/joshuahsin/Downloads/IzzabellaGift/src/main/java/com/entity/Image.java
+/Users/joshuahsin/Downloads/IzzabellaGift/src/main/java/com/entity/Traits.java
+/Users/joshuahsin/Downloads/IzzabellaGift/src/main/java/com/example/IzzabellaGift/IzzabellaGiftApplication.java
+/Users/joshuahsin/Downloads/IzzabellaGift/src/main/java/com/repository/ImageRepository.java
+/Users/joshuahsin/Downloads/IzzabellaGift/src/main/java/com/repository/TraitsRepository.java
+/Users/joshuahsin/Downloads/IzzabellaGift/src/main/java/com/service/ImageDaoImpl.java
+/Users/joshuahsin/Downloads/IzzabellaGift/src/main/java/com/service/TraitsDaoImpl.java

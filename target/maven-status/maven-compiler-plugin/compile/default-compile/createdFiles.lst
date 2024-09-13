@@ -1,0 +1,10 @@
+com/entity/Image.class
+com/service/ImageDaoImpl.class
+com/dao/ImageDao.class
+com/service/TraitsDaoImpl.class
+com/repository/TraitsRepository.class
+com/example/IzzabellaGift/IzzabellaGiftApplication.class
+com/entity/Traits.class
+com/dao/TraitsDao.class
+com/repository/ImageRepository.class
+com/controller/AppController.class
